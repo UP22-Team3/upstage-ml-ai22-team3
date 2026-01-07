@@ -1,18 +1,26 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/UBFhwOwS)
-# Title (Please modify the title)
-## Team
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gmRFsg7-)
+# House Price Prediction | 아파트 실거래가 예측
+## UP22_Team3
 
-| ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
-| :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [박패캠](https://github.com/UpstageAILab)             |            [이패캠](https://github.com/UpstageAILab)             |            [최패캠](https://github.com/UpstageAILab)             |            [김패캠](https://github.com/UpstageAILab)             |            [오패캠](https://github.com/UpstageAILab)             |
-|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
+| ![김성수](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오영완](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이찬송](https://avatars.githubusercontent.com/u/156163982?v=4) | ![장석원](https://avatars.githubusercontent.com/u/156163982?v=4) |
+| :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
+|            [김성수](https://github.com/JackyKIMSungSu)             |            [오영완](https://github.com/UpstageAILab)             |            [이찬송](https://github.com/UpstageAILab)             |            [장석원](https://github.com/UpstageAILab)            |
+|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
 
 ## 0. Overview
 ### Environment
-- _Write Development environment_
+- Ubuntu 20.04.6 LTS
+- Python 3.10.13
 
 ### Requirements
-- _Write Requirements_
+- matplotlib==3.7.1
+- numpy==1.23.5
+- pandas==1.5.3
+- scipy==1.11.3
+- seaborn==0.12.2
+- scikit-learn==1.2.2
+- statsmodels==0.14.0
+- tqdm==4.66.1
 
 ## 1. Competiton Info
 
@@ -86,7 +94,7 @@ e.g.
 
 ### Meeting Log
 
-- _Insert your meeting log link like Notion or Google Docs_
+- ![[패스트캠퍼스] AI 부트캠프 22기_ML_경진대회_멘토링 일지_3조](https://docs.google.com/document/d/1MBIu6oMNMiB0-R5okL2DPueoK-9arUI2kOGaQsXsLYw/edit?usp=drive_link)
 
 ### Reference
 
