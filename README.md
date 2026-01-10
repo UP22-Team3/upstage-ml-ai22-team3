@@ -4,7 +4,7 @@
 
 | ![김성수](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오영완](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이찬송](https://avatars.githubusercontent.com/u/156163982?v=4) | ![장석원](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [김성수](https://github.com/JackyKIMSungSu)             |            [오영완](https://github.com/UpstageAILab)             |            [이찬송](https://github.com/UpstageAILab)             |            [장석원](https://github.com/UpstageAILab)            |
+|            [김성수](https://github.com/JackyKIMSungSu)             |            [오완영](https://github.com/UpstageAILab)             |            [이찬송](https://github.com/UpstageAILab)             |            [장석원](https://github.com/UpstageAILab)            |
 |                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
 
 ## 0. Overview
