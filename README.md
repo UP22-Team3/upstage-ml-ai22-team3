@@ -106,8 +106,8 @@
 
 ### Leader Board
 
-- ![alt text](image.png)
-- 2등 : 15655.4643
+- ![alt text](image-1.png)
+- 2등 : 12414.7535
 
 ### Presentation
 
